@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<!--# Hi, I'm Shaimaa 👋
+# Hi, I'm Shaimaa 👋
 
 🎓 Artificial Intelligence Student
 
@@ -13,26 +11,13 @@ I'm an Artificial Intelligence student interested in exploring AI technologies a
 - Intelligent Systems
 
 ### 💻 Skills
-- Programming and problem-solving
-- Teamwork and communication
-- Continuous learning
+- Programming and Problem-Solving
+- Teamwork and Communication
+- Continuous Learning
 
 ### 📂 Projects
-More academic projects coming soon!
+- **Sensor Networks:** Academic project in the Internet of Things (IoT) course.
 
 ---
 
-Thank you for visiting my profile!
-**shaima0577/shaima0577** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thank you for visiting my profile! ✨
